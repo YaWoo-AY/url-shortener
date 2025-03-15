@@ -34,3 +34,8 @@ Thumbs.db
 *.bak
 *.swp
 
+# OS-specific
+.DS_Store
+Thumbs.db
+```
+
