@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Shortener.
 
 A simple URL shortener built using **React.js** (frontend) and **Node.js with Express** (backend). This application allows users to enter a long URL and get a shortened version, which can be used to redirect to the original URL.
 
